@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @UnifiedExtendableFirmwareInterface
 - 👀 I’m interested in Low Level Programming Projects
-- 🌱 I’m currently learning arm64, x86_64 (NASM), C, zig and rust\\
+- 🌱 I’m currently learning arm64, x86_64 (NASM), C, zig and rust
 - 😄 Pronouns: He
 - ⚡ Fun fact: I am the UnifiedExtendableFirmwareInterface
 
